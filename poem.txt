@@ -3,7 +3,7 @@ the rainbow
 red
 orange
 yellow
-green 
+GREEN
 blue
 indigo 
 violet
