@@ -1,11 +1,11 @@
 the rainbow
 
-red
-orange
+RED
+ORANGE
 YELLOW
 GREEN
-blue
-indigo 
-violet
+BLUE
+INDIGO
+VIOLET
 
 these are the colors of the rainbow
